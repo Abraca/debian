@@ -1,0 +1,16 @@
+Description: Add keywords to desktop entry.
+Author: Daniel Svensson <dsvensson@gmail.com>
+Forwarded: not-needed
+
+diff --git a/data/abraca.desktop b/data/abraca.desktop
+index 50c7da8..48929dc 100644
+--- a/data/abraca.desktop
++++ b/data/abraca.desktop
+@@ -3,6 +3,7 @@ Name=Abraca XMMS2 Client
+ Comment=Manage Music
+ Comment[de]=Musik verwalten
+ Categories=GNOME;Application;AudioVideo;
++Keywords=Audio;Song;Playlist;Music;
+ Exec=abraca
+ Icon=abraca-192
+ Terminal=false

@@ -8,6 +8,7 @@ abraca (0.8.0-1) UNRELEASED; urgency=medium
   * Respect parallel=.. build options.
   * Drop all patches (applied upstream).
   * Patch away optimization level flags from build system.
+  * Add patch for adding keywords to desktop file.
 
  -- Daniel Svensson <dsvensson@gmail.com>  Sat, 23 Aug 2014 14:36:46 +0200
 
