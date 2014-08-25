@@ -12,6 +12,7 @@ abraca (0.8.0+dfsg-1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 3.9.5.
   * Add pgp signature check to d/watch.
   * Update d/control Vcs-* URLs.
+  * Add gettext and intltool as build dependencies.
 
  -- Daniel Svensson <dsvensson@gmail.com>  Sat, 23 Aug 2014 14:36:46 +0200
 
