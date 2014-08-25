@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9),
                valac-0.24 (>= 0.24.0),
 Standards-Version: 3.9.5
 Homepage: http://abraca.github.com/Abraca/
-Vcs-Git: git://git.debian.org/git/pkg-xmms2/abraca.git
-Vcs-Browser: http://git.debian.org/?p=pkg-xmms2/abraca.git
+Vcs-Git: git://anonscm.debian.org/pkg-xmms2/abraca.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-xmms2/abraca.git
 
 Package: abraca
 Architecture: any
