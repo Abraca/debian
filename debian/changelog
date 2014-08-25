@@ -10,6 +10,7 @@ abraca (0.8.0+dfsg-1) UNRELEASED; urgency=medium
   * Patch away optimization level flags from build system.
   * Add patch for adding keywords to desktop file.
   * Bump Standards-Version to 3.9.5.
+  * Add pgp signature check to d/watch.
 
  -- Daniel Svensson <dsvensson@gmail.com>  Sat, 23 Aug 2014 14:36:46 +0200
 
