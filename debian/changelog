@@ -13,6 +13,7 @@ abraca (0.8.0+dfsg-1) unstable; urgency=medium
   * Add pgp signature check to d/watch.
   * Update d/control Vcs-* URLs.
   * Add gettext and intltool as build dependencies.
+  * Transfer the role as Maintainer to me (Closes: #761830).
 
  -- Daniel Svensson <dsvensson@gmail.com>  Sat, 23 Aug 2014 14:36:46 +0200
 

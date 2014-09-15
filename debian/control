@@ -1,7 +1,7 @@
 Source: abraca
 Section: sound
 Priority: optional
-Maintainer: Fabrizio Regalli <fabreg@fabreg.it>
+Maintainer: Daniel Svensson <dsvensson@gmail.com>
 Build-Depends: debhelper (>= 9),
                libgee-0.8-dev (>= 0.14.0),
                libgtk-3-dev,
